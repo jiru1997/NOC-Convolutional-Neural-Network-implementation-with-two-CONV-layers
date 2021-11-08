@@ -9,3 +9,6 @@ In order to make sure the system can work functionally, the control module will 
 You can use QuestaSim to build and run this project.
 
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/66343787/140835323-d0be9386-3071-4ddf-ac35-21657d57b673.png">
+
+
+[EE552 Project Final Report.pdf](https://github.com/jiru1997/NOC-Convolutional-Neural-Network-implementation-with-two-CONV-layer/files/7500770/EE552.Project.Final.Report.pdf)
